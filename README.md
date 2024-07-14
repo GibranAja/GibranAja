@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gibran</h1>
 <h3 align="center">A high school student who is learning programming</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gibranaja&label=Profile%20views&color=0e75b6&style=flat" alt="gibranaja" />
-</p>
-
 <h3 align="left">About Me:</h3>
 
 Hey there! I'm Gibran, a high school student with a burning passion for programming and technology. From the moment I wrote my first "Hello, World!" program, I knew I had stumbled upon something truly magical. The ability to create, innovate, and solve problems through code has captivated me ever since. As a high school student, balancing my academic responsibilities with my passion for programming can be challenging, but it's a challenge I embrace wholeheartedly. Every line of code I write, every problem I solve, and every new technology I learn brings me one step closer to my dream of becoming a skilled full-stack developer.
