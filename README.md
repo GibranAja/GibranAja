@@ -1,27 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gibran</h1>
-<h3 align="center">A passionate high school student exploring the world of programming</h3>
+<h3 align="center">A high school student who is learning programming</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gibranaja&label=Profile%20views&color=0e75b6&style=flat" alt="gibranaja" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gibranaja" alt="gibranaja" />
-  </a>
-</p>
+<h3 align="left">About Me:</h3>
+
+Hey there! I'm Gibran, a high school student with a burning passion for programming and technology. From the moment I wrote my first "Hello, World!" program, I knew I had stumbled upon something truly magical. The ability to create, innovate, and solve problems through code has captivated me ever since. As a high school student, balancing my academic responsibilities with my passion for programming can be challenging, but it's a challenge I embrace wholeheartedly. Every line of code I write, every problem I solve, and every new technology I learn brings me one step closer to my dream of becoming a skilled full-stack developer.
 
 - 🌱 I'm currently learning **Vue.js, Laravel, and other exciting technologies**
 - 🚀 Aspiring to become a full-stack developer
 - 💡 Always eager to learn and tackle new challenges
-- 📫 How to reach me: **instagram.com/gbrn_bannn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/gibran" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibran" height="30" width="40" />
-  </a>
-</p>
+- 📫 How to reach me: **gbrn_bannn** on Instagram
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,8 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/993c072a-11f4-4400-8a9e-776ec73a6bf6)
-" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -83,14 +73,6 @@
 </p>
 
 <h3 align="left">My GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibranaja&show_icons=true&locale=en&layout=compact" alt="gibranaja" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gibranaja&show_icons=true&locale=en" alt="gibranaja" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gibranaja&" alt="gibranaja" />
 </p>
