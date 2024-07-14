@@ -41,7 +41,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)" alt="laravel" width="40" height="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/993c072a-11f4-4400-8a9e-776ec73a6bf6)
+" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
