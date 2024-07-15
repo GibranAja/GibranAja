@@ -1,17 +1,32 @@
 <h1 align="center">Hi 👋, I'm Gibran</h1>
 <h3 align="center">A high school student who is learning programming</h3>
 
-<h3 align="left">About Me:</h3>
+<div align="center">
+  
+  🌱 I'm currently learning **Vue.js, Laravel, and other exciting technologies**
+  
+  🚀 Aspiring to become a full-stack developer
+  
+  💡 Always eager to learn and tackle new challenges
+  
+  📫 How to reach me: **gbrn_bannn** on Instagram
 
+</div>
+
+---
+
+<h3 align="center">About Me</h3>
+
+<p align="justify">
 Hey there! I'm Gibran, a high school student with a burning passion for programming and technology. From the moment I wrote my first "Hello, World!" program, I knew I had stumbled upon something truly magical. The ability to create, innovate, and solve problems through code has captivated me ever since. As a high school student, balancing my academic responsibilities with my passion for programming can be challenging, but it's a challenge I embrace wholeheartedly. Every line of code I write, every problem I solve, and every new technology I learn brings me one step closer to my dream of becoming a skilled full-stack developer.
+</p>
 
-- 🌱 I'm currently learning **Vue.js, Laravel, and other exciting technologies**
-- 🚀 Aspiring to become a full-stack developer
-- 💡 Always eager to learn and tackle new challenges
-- 📫 How to reach me: **gbrn_bannn** on Instagram
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+
+<div align="center">
+  
   <!-- HTML, CSS, JavaScript -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -66,9 +81,13 @@ Hey there! I'm Gibran, a high school student with a burning passion for programm
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
   </a>
-</p>
+  
+</div>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gibranaja&" alt="gibranaja" />
-</p>
+---
+
+<h3 align="center">My GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gibranaja&" alt="gibranaja" />
+</div>
