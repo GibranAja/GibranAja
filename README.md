@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gibran</h1>
 <h3 align="center">A high school student who is learning programming</h3>
 
-<div align="center">
+<div align="left">
   
   🌱 I'm currently learning **Vue.js, Laravel, and other exciting technologies**
   
