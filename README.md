@@ -15,14 +15,6 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h3 align="center">About Me</h3>
-    <p align="justify">
-    Hey there! I'm Gibran, a high school student with a burning passion for programming and technology. From the moment I wrote my first "Hello, World!" program, I knew I had stumbled upon something truly magical. The ability to create, innovate, and solve problems through code has captivated me ever since. As a high school student, balancing my academic responsibilities with my passion for programming can be challenging, but it's a challenge I embrace wholeheartedly. Every line of code I write, every problem I solve, and every new technology I learn brings me one step closer to my dream of becoming a skilled full-stack developer.
-    </p>
-  </div>
-
   <div style="width: 1px; background-color: #ccc; margin: 0 10px;"></div>
 
   <div style="width: 48%;">
