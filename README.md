@@ -7,8 +7,6 @@
   
   🚀 Aspiring to become a full-stack developer
   
-  💡 Always eager to learn and tackle new challenges
-  
   📫 How to reach me: **gbrn_bannn** on Instagram
 
 </div>
