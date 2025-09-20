@@ -7,7 +7,7 @@
   
   🚀 Aspiring to become a full-stack developer
   
-  📫 How to reach me: **gbrn_bannn** on Instagram
+  📫 How to reach me: **banstayhalal** on Instagram
 
 </div>
 
