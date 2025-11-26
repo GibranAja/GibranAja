@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gibran</h1>
-<h3 align="center">A high school student who is learning programming</h3>
+<h3 align="center">Learning programming</h3>
 
 <div align="left">
   
